@@ -1,0 +1,12 @@
+p{
+    color: blue;
+    font-family: 'Helvetica', 'Sans Serif';
+}
+
+.complete-red{
+    color: brown;
+}
+
+body{
+    background: cyan;
+}
